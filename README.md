@@ -19,8 +19,18 @@ I am a 20-year-old third-year AI student at An-Najah University with a passion f
 - **Fast learner**
 
 ## Technical Skills
-- **Programming Languages**: C, C++, Python
-- **Web Development**: NodeJS, HTML, CSS, JavaScript, React, Bootstrap, Express, Socket.IO
+```diff
++ C
++ C++
++ NodeJS
++ HTML
++ CSS
++ JavaScript
++ React
++ Bootstrap
++ Express
++ Socket.IO
++ Python
 
-## Contact
-Feel free to reach out to me for any collaboration or job opportunities!
+
+You can tweak this as needed for your GitHub profile. Enjoy your coding journey, Amjad!
