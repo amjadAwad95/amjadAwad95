@@ -20,19 +20,19 @@ I am a 20-year-old third-year AI student at An-Najah University with a passion f
 
 ## Technical Skills
 ### Programming Languages
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `C`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `C++`
-- ![#4CAF50](https://via.placeholder.com/15/4CAF50/000000?text=+) `Python`
+- <span style="color:red">■</span> `C`
+- <span style="color:orange">■</span> `C++`
+- <span style="color:green">■</span> `Python`
 
 ### Web Development
-- ![#2196F3](https://via.placeholder.com/15/2196F3/000000?text=+) `NodeJS`
-- ![#FF9800](https://via.placeholder.com/15/FF9800/000000?text=+) `HTML`
-- ![#9C27B0](https://via.placeholder.com/15/9C27B0/000000?text=+) `CSS`
-- ![#00BCD4](https://via.placeholder.com/15/00BCD4/000000?text=+) `JavaScript`
-- ![#FFC107](https://via.placeholder.com/15/FFC107/000000?text=+) `React`
-- ![#8BC34A](https://via.placeholder.com/15/8BC34A/000000?text=+) `Bootstrap`
-- ![#FF5722](https://via.placeholder.com/15/FF5722/000000?text=+) `Express`
-- ![#795548](https://via.placeholder.com/15/795548/000000?text=+) `Socket.IO`
+- <span style="color:blue">■</span> `NodeJS`
+- <span style="color:yellow">■</span> `HTML`
+- <span style="color:purple">■</span> `CSS`
+- <span style="color:cyan">■</span> `JavaScript`
+- <span style="color:gold">■</span> `React`
+- <span style="color:limegreen">■</span> `Bootstrap`
+- <span style="color:orangered">■</span> `Express`
+- <span style="color:brown">■</span> `Socket.IO`
 
-### Contact
+## Contact
 Feel free to reach out to me for any collaboration or job opportunities!
